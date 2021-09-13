@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "playlist":"deporte",
+        "artista":"Queen",
+        "nombre" : "Another One Bites The Dust",
+        "url":"assets/music/deporte/Another One Bites the Dust - Queen_160k.mp3",
+        "duracion":215
+    },
+    {
+        "id":2,
+        "playlist":"deporte",
+        "artista":"Ronald Cristoph",
+        "nombre" : "Take Off! Baby",
+        "url":"assets/music/deporte/Ronald Christoph - Take Off, Baby! feat. Orlando (Original Mix)_160k.mp3",
+        "duracion":158
+    },
+    {
+        "id":3,
+        "playlist":"deporte",
+        "artista":"The Drums",
+        "nombre" : "Days",
+        "url":"assets/music/deporte/The Drums - Days_160k.mp3",
+        "duracion":158
+    }
+
+
+]

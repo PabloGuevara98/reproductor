@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "playlist":"estudiar",
+        "artista":"FKJ",
+        "nombre" : "Tadow",
+        "url":"assets/music/estudiar/Fkj & Masego - Tadow_160k.mp3",
+        "duracion":200
+    },
+    {
+        "id":2,
+        "playlist":"estudiar",
+        "artista":"Lofi",
+        "nombre" : "Lofi Rain Set",
+        "url":"assets/music/estudiar/(FREE) Lo-fi Type Beat - Rain_160k.mp3",
+        "duracion":448
+    },
+    {
+        "id":3,
+        "playlist":"estudiar",
+        "artista":"L'indécis",
+        "nombre" : "Soulful",
+        "url":"assets/music/estudiar/L indécis - Soulful_160k.mp3",
+        "duracion":211
+    }
+
+
+]

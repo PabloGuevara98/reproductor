@@ -1,0 +1,115 @@
+[
+    {
+        "id":1,
+        "playlist":"rock",
+        "artista":"Gustavo Cerati",
+        "nombre" : "Crimen",
+        "url":"assets/music/rock/Gustavo Cerati - Crimen (Official VIdeo)_160k.mp3",
+        "duracion":209
+    },
+    {
+        "id":2,
+        "playlist":"rock",
+        "artista":"MorMor",
+        "nombre" : "Heaven's Only Wishful",
+        "url":"assets/music/rock/MorMor- Heaven s Only Wishful_160k.mp3",
+        "duracion":344
+    },
+    {
+        "id":3,
+        "playlist":"rock",
+        "artista":"Daft Punk",
+        "nombre" : "Something About Us",
+        "url":"assets/music/rock/Daft Punk - Something About Us (Official Video)_160k.mp3",
+        "duracion":198
+    },
+    {
+        "id":4,
+        "playlist":"rock",
+        "artista":"Gorillaz",
+        "nombre" : "Dare",
+        "url":"assets/music/rock/Gorillaz - DARE (Official Video)_160k.mp3",
+        "duracion":200
+    },
+    {
+        "id":5,
+        "playlist":"rock",
+        "artista":"Daft Punk",
+        "nombre" : "Instant Crush",
+        "url":"assets/music/rock/Daft Punk ft. Julian Casablancas - Instant Crush (Official Video)_160k.mp3",
+        "duracion":298
+    },
+
+    {
+        "id":6,
+        "playlist":"rock",
+        "artista":"MGMT",
+        "nombre" : "When You Die",
+        "url":"assets/music/rock/MGMT - When You Die_160k.mp3",
+        "duracion":254
+    },
+    {
+        "id":7,
+        "playlist":"rock",
+        "artista":"Gorillaz",
+        "nombre" : "On Melancholy Hill",
+        "url":"assets/music/rock/On Melancholy Hill_160k.mp3",
+        "duracion":267
+    },
+    {
+        "id":8,
+        "playlist":"rock",
+        "artista":"Foals",
+        "nombre" : "Inhaler",
+        "url":"assets/music/rock/Foals - Inhaler (Official Music Video)_160k.mp3",
+        "duracion":362
+    },
+    {
+        "id":9,
+        "playlist":"rock",
+        "artista":"The Voidz",
+        "nombre" : "Pointlessness",
+        "url":"assets/music/rock/The Voidz - Pointlessness (Subtitulada Esp - Lyrics)_160k.mp3",
+        "duracion":547
+    },
+    {
+        "id":10,
+        "playlist":"rock",
+        "artista":"Jodamassa",
+        "nombre" : "Para Subir",
+        "url":"assets/music/rock/Jodamassa - Para Subir..._160k.mp3",
+        "duracion":375
+    },
+    {
+        "id":11,
+        "playlist":"rock",
+        "artista":"Jodamassa",
+        "nombre" : "Bolerezca",
+        "url":"assets/music/rock/Jodamassa - Bolerezca_160k.mp3",
+        "duracion":375
+    },
+    {
+        "id":12,
+        "playlist":"rock",
+        "artista":"Pastizales",
+        "nombre" : "La Casa y la Nada",
+        "url":"assets/music/rock/Pastizales - La Casa y la Nada_50k.mp3",
+        "duracion":216
+    },
+    {
+        "id":13,
+        "playlist":"rock",
+        "artista":"Radiohead",
+        "nombre" : "Daydreaming",
+        "url":"assets/music/rock/Radiohead - Daydreaming_160k.mp3",
+        "duracion":252
+    },
+    {
+        "id":14,
+        "playlist":"rock",
+        "artista":"Radiohead",
+        "nombre" : "A Wolf at the Door",
+        "url":"assets/music/rock/A Wolf At the Door_160k.mp3",
+        "duracion":252
+    }
+]
