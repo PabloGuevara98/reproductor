@@ -22,7 +22,56 @@
         "nombre" : "Days",
         "url":"assets/music/deporte/The Drums - Days_160k.mp3",
         "duracion":158
+    },
+    {
+        "id":4,
+        "playlist":"deporte",
+        "artista":"The Beatles",
+        "nombre" : "Sunday",
+        "url":"assets/music/deporte/The Drums - Days_160k.mp3",
+        "duracion":158
+    },
+    {
+        "id":5,
+        "playlist":"deporte",
+        "artista":"The Beatles",
+        "nombre" : "Sunday",
+        "url":"assets/music/deporte/",
+        "duracion":158
+    },
+    {
+        "id":6,
+        "playlist":"deporte",
+        "artista":"Turtles",
+        "nombre" : "My Love Resides On You",
+        "url":"assets/music/deporte/",
+        "duracion":158
+    },
+    {
+        "id":7,
+        "playlist":"deporte",
+        "artista":"Scoprions",
+        "nombre" : "Nothing to Say",
+        "url":"assets/music/deporte/",
+        "duracion":158
+    },
+    {
+        "id":8,
+        "playlist":"deporte",
+        "artista":"MandMaxim",
+        "nombre" : "The Law for Me",
+        "url":"assets/music/deporte/",
+        "duracion":158
+    },
+    {
+        "id":9,
+        "playlist":"deporte",
+        "artista":"Childish Gambino",
+        "nombre" : "Americaa",
+        "url":"assets/music/deporte/",
+        "duracion":158
     }
+    
 
 
 ]

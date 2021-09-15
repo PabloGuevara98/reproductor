@@ -22,7 +22,56 @@
         "nombre" : "Soulful",
         "url":"assets/music/estudiar/L indécis - Soulful_160k.mp3",
         "duracion":211
+    },
+    {
+        "id":4,
+        "playlist":"estudiar",
+        "artista":"Ludovico Einaudi",
+        "nombre" : "Unna Mattina",
+        "url":"assets/music/estudiar/L indécis - Soulful_160k.mp3",
+        "duracion":211
+    },
+    {
+        "id":5,
+        "playlist":"estudiar",
+        "artista":"Ludacis",
+        "nombre" : "Soul",
+        "url":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+        "duracion":211
+    },
+    {
+        "id":6,
+        "playlist":"estudiar",
+        "artista":"Alt-J",
+        "nombre" : "Breezzeblocks",
+        "url":"https://drive.google.com/file/d/1U4kSgHuKJ4gkOMcnA4gjiu6-gGqzTkiQ/view?usp=sharing",
+        "duracion":211
+    },
+    {
+        "id":7,
+        "playlist":"estudiar",
+        "artista":"Alt-J",
+        "nombre" : "The Story of O.J",
+        "url":"assets/music/estudiar/(FREE) Lo-fi Type Beat - Rain_160k.mp3",
+        "duracion":211
+    },
+    {
+        "id":8,
+        "playlist":"estudiar",
+        "artista":"Alt-J",
+        "nombre" : "The Story of O.J",
+        "url":"assets/music/estudiar/.mp3",
+        "duracion":211
+    },
+    {
+        "id":9,
+        "playlist":"estudiar",
+        "artista":"Alt-J",
+        "nombre" : "The Story of O.J",
+        "url":"https://drive.google.com/file/d/1U4kSgHuKJ4gkOMcnA4gjiu6-gGqzTkiQ/view?usp=sharing",
+        "duracion":211
     }
+
 
 
 ]

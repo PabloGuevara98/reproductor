@@ -259,6 +259,9 @@
     padding: 5px;
     padding-right:20px ;
 }
+#principal{
+    background-image: '';
+}
 .music:hover{
     cursor: pointer;
     background: #ffffff3d;
